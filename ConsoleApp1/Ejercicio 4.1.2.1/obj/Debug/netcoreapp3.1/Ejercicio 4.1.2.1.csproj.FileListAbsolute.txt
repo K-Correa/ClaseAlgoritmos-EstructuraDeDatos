@@ -1,0 +1,13 @@
+C:\Users\Keven\OneDrive\Escritorio\Algoritmos y Estructuras de datos\ConsoleApp1\Ejercicio 4.1.2.1\bin\Debug\netcoreapp3.1\Ejercicio 4.1.2.1.exe
+C:\Users\Keven\OneDrive\Escritorio\Algoritmos y Estructuras de datos\ConsoleApp1\Ejercicio 4.1.2.1\bin\Debug\netcoreapp3.1\Ejercicio 4.1.2.1.deps.json
+C:\Users\Keven\OneDrive\Escritorio\Algoritmos y Estructuras de datos\ConsoleApp1\Ejercicio 4.1.2.1\bin\Debug\netcoreapp3.1\Ejercicio 4.1.2.1.runtimeconfig.json
+C:\Users\Keven\OneDrive\Escritorio\Algoritmos y Estructuras de datos\ConsoleApp1\Ejercicio 4.1.2.1\bin\Debug\netcoreapp3.1\Ejercicio 4.1.2.1.runtimeconfig.dev.json
+C:\Users\Keven\OneDrive\Escritorio\Algoritmos y Estructuras de datos\ConsoleApp1\Ejercicio 4.1.2.1\bin\Debug\netcoreapp3.1\Ejercicio 4.1.2.1.dll
+C:\Users\Keven\OneDrive\Escritorio\Algoritmos y Estructuras de datos\ConsoleApp1\Ejercicio 4.1.2.1\bin\Debug\netcoreapp3.1\Ejercicio 4.1.2.1.pdb
+C:\Users\Keven\OneDrive\Escritorio\Algoritmos y Estructuras de datos\ConsoleApp1\Ejercicio 4.1.2.1\obj\Debug\netcoreapp3.1\Ejercicio 4.1.2.1.AssemblyInfoInputs.cache
+C:\Users\Keven\OneDrive\Escritorio\Algoritmos y Estructuras de datos\ConsoleApp1\Ejercicio 4.1.2.1\obj\Debug\netcoreapp3.1\Ejercicio 4.1.2.1.AssemblyInfo.cs
+C:\Users\Keven\OneDrive\Escritorio\Algoritmos y Estructuras de datos\ConsoleApp1\Ejercicio 4.1.2.1\obj\Debug\netcoreapp3.1\Ejercicio 4.1.2.1.csproj.CoreCompileInputs.cache
+C:\Users\Keven\OneDrive\Escritorio\Algoritmos y Estructuras de datos\ConsoleApp1\Ejercicio 4.1.2.1\obj\Debug\netcoreapp3.1\Ejercicio 4.1.2.1.dll
+C:\Users\Keven\OneDrive\Escritorio\Algoritmos y Estructuras de datos\ConsoleApp1\Ejercicio 4.1.2.1\obj\Debug\netcoreapp3.1\Ejercicio 4.1.2.1.pdb
+C:\Users\Keven\OneDrive\Escritorio\Algoritmos y Estructuras de datos\ConsoleApp1\Ejercicio 4.1.2.1\obj\Debug\netcoreapp3.1\Ejercicio 4.1.2.1.genruntimeconfig.cache
+C:\Users\Keven\OneDrive\Escritorio\Algoritmos y Estructuras de datos\ConsoleApp1\Ejercicio 4.1.2.1\obj\Debug\netcoreapp3.1\Ejercicio 4.1.2.1.csprojAssemblyReference.cache
