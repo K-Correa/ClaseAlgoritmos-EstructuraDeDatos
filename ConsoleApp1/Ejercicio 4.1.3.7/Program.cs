@@ -23,7 +23,7 @@ namespace Ejercicio_4._1._3._7
                 Console.Write("Nombre {0}:", i);
                 names[i] = Console.ReadLine();
 
-                Console.WriteLine("Presione enter 2 veces para detener la peticion!");
+                Console.WriteLine("Presione enter 2 veces para detener la peticion! o 2 veces espacio para continuar");
 
                 if (Console.ReadKey().Key == ConsoleKey.Enter)
                 {

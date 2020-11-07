@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 
 namespace Ejercicio_4._1._3._4
 {
@@ -12,12 +11,12 @@ namespace Ejercicio_4._1._3._4
             los 10 que se han tecleado antes.Volverá a pedir otro nombre y a decir si se encuentra entre ellos, y así
             sucesivamente hasta que se teclee "fin".*/
 
-            string[] names =new string [10];
+            string[] names = new string[10];
             string optionUser = "";
             string searchingName = "";
 
 
-            for (int i = 1; i<names.Length + 1; i++)
+            for (int i = 1; i < names.Length + 1; i++)
             {
                 Console.Write("Nombre {0}:", i);
                 names[i] = Console.ReadLine();
@@ -33,7 +32,7 @@ namespace Ejercicio_4._1._3._4
 
             int index = Array.IndexOf(names, searchingName);
             Console.WriteLine($"El nombre {searchingName} se encuentra en la posicion {index}");
-                
+
         }
     }
 }
